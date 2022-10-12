@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Kaggle Competition: Face Mask Detection](http://example.com/)
+[Kaggle Competition: Face Mask Detection](https://github.com/michele-bellomo/FaceMaskDetection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!--
