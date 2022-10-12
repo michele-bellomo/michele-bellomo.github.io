@@ -1,10 +1,11 @@
 title: Michele Bellomo # your name (or website title) here
 logo: "/images/profile_photo.jpeg" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Research fellow at Politecnico di Milano, Department of Energy 
   <br><br>
-  Second description 
+  Professor of Mathematics and Physics  
   <br><br>
+  Mathematical Engineer gratuated at Politecnico di Milano, track "Statistical Learning"
   <a href="https://www.linkedin.com/in/michelebellomo/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
