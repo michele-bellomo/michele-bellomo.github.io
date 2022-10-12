@@ -2,19 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning and Neural Networks
 
-[Project 1 Title](/sample_page)
+[Kaggle Competition: Visual Question Answering (VQA)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Codalab: ACRE Cascade competition for weed segmentation](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Kaggle Competition: Face Mask Detection](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<!--
 ---
 
 ### Category Name 2
