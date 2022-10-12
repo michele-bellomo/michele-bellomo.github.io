@@ -9,7 +9,7 @@
 
 ---
 [Codalab: ACRE Cascade competition for weed segmentation](/pdf/sample_presentation.pdf)
-<img src="codalab.jpg?raw=true"/>
+<img src="images/codalab.jpg?raw=true"/>
 
 ---
 [Kaggle Competition: Face Mask Detection](https://github.com/michele-bellomo/FaceMaskDetection)
