@@ -5,7 +5,7 @@
 ### Deep Learning and Neural Networks
 
 [Kaggle Competition: Visual Question Answering (VQA)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/VQA.png?raw=true"/>
 
 ---
 [Codalab: ACRE Cascade competition for weed segmentation](/pdf/sample_presentation.pdf)
