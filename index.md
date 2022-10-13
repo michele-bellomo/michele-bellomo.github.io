@@ -8,7 +8,7 @@
 <img src="images/VQA.png?raw=true"/>
 
 ---
-[Codalab: ACRE Cascade competition for weed segmentation](/pdf/sample_presentation.pdf)
+[Codalab: ACRE Cascade competition for weed segmentation](https://github.com/michele-bellomo/CODALAB-ACRECascadeCompetition)
 <img src="images/codalab.jpg?raw=true"/>
 
 ---
