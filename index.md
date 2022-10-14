@@ -4,7 +4,7 @@
 
 ### Deep Learning and Neural Networks
 
-[Kaggle Competition: Visual Question Answering (VQA)](/sample_page)
+[Kaggle Competition: Visual Question Answering (VQA)](https://github.com/michele-bellomo/VQA)
 <img src="images/VQA.png?raw=true"/>
 
 ---
