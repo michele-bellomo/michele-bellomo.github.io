@@ -1,3 +1,5 @@
+<!-- {% comment %} è il modo per commentare in blocco in HTML -->
+{% comment %}
 <!-- start custom footer snippets -->
 
 <a href="/sitemap/">Sitemap</a>
@@ -17,3 +19,11 @@
 </script>
 
 <!-- end custom footer snippets -->
+{% endcomment %}
+
+
+<footer class="page__footer">
+  <div class="page__footer-copyright">
+    <p>© {{ site.time | date: '%Y' }} Michele Bellomo</p>
+  </div>
+</footer>
