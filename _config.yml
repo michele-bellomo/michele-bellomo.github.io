@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Michele Bellomo"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematical Engineer, Ph.D. in Electrical Engineering."
+  bio              : "Mathematical Engineer, <br>Ph.D. in Electrical Engineering."
   location         : # "Earth"
   employer         : "Politecnico di Milano"
   uri              : # URL
